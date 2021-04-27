@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning everything I can about Technology.
 - 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on my school.
-- 📫 How to reach me ...
+- 📫 How to reach me sebastian.moran@upaep.edu.mx
 
 <!---
 its-Retr0/its-Retr0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
